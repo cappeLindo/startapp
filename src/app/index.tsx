@@ -39,5 +39,5 @@ const styles = StyleSheet.create({
         right: 0,
         alignItems: "center",
         height: 120
-    }
+    },
 }) 
